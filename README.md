@@ -12,7 +12,7 @@ php 7.3|^8.0
 Download atau clone project dari github:
 
 ```sh
-git clone https://github.com/chaubatkunda/laracamp
+git clone https://github.com/faizalfakhrii/laracamp
 ```
 
 ```sh
@@ -29,4 +29,3 @@ php artisan storage:link
 php artisan optimize
 php artisan db:seed
 ```
-"# laracamp" 
